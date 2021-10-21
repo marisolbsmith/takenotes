@@ -1,6 +1,10 @@
+![Screenshot (24)](https://user-images.githubusercontent.com/86989726/138206292-08c50d44-e9eb-490c-8083-0ec1fb09d771.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/86989726/138206295-df045d87-e967-4751-85f1-3bb6a1ef8a26.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/86989726/138197106-e9aea831-96cf-4b88-9023-98fe9f90f285.png)
 TAKE NOTES
 
-GIVEN a note-taking application
+note-taking application
+How to use:
 WHEN you open the Note Taker
 THEN you are presented with a landing page with a link to a notes page
 WHEN you click on the link to the notes page
